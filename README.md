@@ -11,7 +11,7 @@ set name as root theme
 # Screenshot
 ![snapshot1](https://user-images.githubusercontent.com/31169019/29498979-3b525cfe-8607-11e7-8e53-74204bee4326.png)
 
-Dependencies will be automatically installed.:
+# Installation:
 ```
 git clone https://github.com/karimAMG/AMG-Root
 cd AMG-Root && ./AMG-Root.sh
