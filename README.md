@@ -9,6 +9,7 @@ set name as root theme
 | Parrot OS             | 3.1           |
 
 # Screenshot
+![snapshot1](https://user-images.githubusercontent.com/31169019/29498979-3b525cfe-8607-11e7-8e53-74204bee4326.png)
 
 Dependencies will be automatically installed.:
 ```
